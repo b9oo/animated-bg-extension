@@ -1,7 +1,7 @@
 {
-    "name": "pxt-project-template",
+    "name": "BG-Anim",
     "version": "0.0.1",
-    "description": "A standard manifest for a Microsoft MakeCode (PXT) project.",
+    "description": "A extension that adds background animations",
     "files": [
         "main.ts",
         "README.md"
