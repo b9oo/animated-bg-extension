@@ -1,11 +1,17 @@
 {
-    "name": "bga-animation",
-    "description": "Background animation custom blocks",
+    "name": "arcade-backgrounds",
+    "description": "Background animation custom blocks for Arcade",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "game": "*",
+        "scene": "*",
+        "core": "*"
     },
     "files": [
         "main.ts"
     ],
+    "targetVersions": {
+        "targetId": "arcade"
+    },
     "preferredEditor": "tsprj"
 }
