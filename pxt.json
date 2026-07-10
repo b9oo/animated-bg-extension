@@ -1,22 +1,16 @@
 {
     "name": "BG-Anim",
     "version": "0.0.1",
-    "description": "A extension that adds background animations",
+    "description": "Adds Background Animations.",
     "files": [
-        "main.ts",
-        "README.md"
+        "main.ts"
     ],
     "dependencies": {
         "core": "*",
         "microbit": "*"
     },
-    "targetVersions": {
-        "target": "7.0.0",
-        "targetId": "microbit"
-    },
     "preferredEditor": "tsprj",
     "supportedTargets": [
         "microbit"
-
     ]
 }
