@@ -1,20 +1,11 @@
 {
-    "name": "background-animation-extension",
-    "version": "0.0.1",
-    "description": "Custom background animations for MakeCode Arcade",
-    "files": [
-        "main.ts",
-        "README.md"
-    ],
+    "name": "bga-animation",
+    "description": "Background animation custom blocks",
     "dependencies": {
         "device": "*"
     },
-    "targetVersions": {
-        "target": "1.12.30",
-        "targetId": "arcade"
-    },
-    "preferredEditor": "tsprj",
-    "supportedTargets": [
-        "arcade"
-    ]
+    "files": [
+        "main.ts"
+    ],
+    "preferredEditor": "tsprj"
 }
