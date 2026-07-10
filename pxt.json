@@ -1,0 +1,22 @@
+{
+    "name": "pxt-project-template",
+    "version": "0.0.1",
+    "description": "A standard manifest for a Microsoft MakeCode (PXT) project.",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "dependencies": {
+        "core": "*",
+        "microbit": "*"
+    },
+    "targetVersions": {
+        "target": "7.0.0",
+        "targetId": "microbit"
+    },
+    "preferredEditor": "tsprj",
+    "supportedTargets": [
+        "microbit"
+
+    ]
+}
